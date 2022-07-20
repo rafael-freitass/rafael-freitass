@@ -1,5 +1,5 @@
 - 👋 Oi, me chamo Rafael
 - 👀 Eu eu sou um dev iniciante
 - 🌱 E estou começando a estudar python agora
-- 💞️ Aqui irei postar as atividades e projetos que eu fizer durante minha trajetoria
-- 📫 Um abraço a todos ;)
+- 📫Aqui irei postar as atividades e projetos que eu fizer durante minha trajetoria
+- 💞️Um abraço a todos ;)
